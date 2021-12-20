@@ -54,7 +54,7 @@
     "bignum": "^0.13.1",
     "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
     "equihashverify": "git+https://github.com/ZencashOfficial/equihashverify.git",
-    "merkle-bitcoin": "*",
+    "merkle-bitcoin": "git+https://github.com/Konstantin35/merkle-bitcoin.git",
     "promise": "*",
     "sha3": "git+https://github.com/phusion/node-sha3.git"
   },
